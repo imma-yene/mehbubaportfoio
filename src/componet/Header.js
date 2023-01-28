@@ -21,7 +21,7 @@ class Header extends Component {
             Show navigation
           </a>
           <a className="mobile-btn" href="#home" title="Hide navigation">
-            Hide navigation
+            Hide navigations
           </a>
 
           <ul id="nav" className="nav">
@@ -43,11 +43,6 @@ class Header extends Component {
               </a>
             </li>
 
-            <li>
-              <a className="smoothscroll" href="#portfolio">
-                Works
-              </a>
-            </li>
 
             <li>
               <a className="smoothscroll" href="#contact">

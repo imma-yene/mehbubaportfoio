@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Mehbuba Abera's Portfolio",
-    "description":"I am a web development engineer and I use react  to develop pages",
+    "description":"I am software engineer and I use react  to develop pages",
     "image":"img4.jpg",
     "bio":" I m self -motivated, diligent, flexible and proactive to the dynamics changing of the glob that makes me a prime soft ware engineer",
     "contactmessage":"You can reach me in this address.",
@@ -16,7 +16,7 @@
       "zip": " "
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
