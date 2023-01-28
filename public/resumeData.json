@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name":"Mehbuba Abera's Portfolio",
+    "description":"I am a web development engineer and I use react  to develop pages",
+    "image":"img4.jpg",
+    "bio":" I m self -motivated, diligent, flexible and proactive to the dynamics changing of the glob that makes me a prime soft ware engineer",
+    "contactmessage":"You can reach me in this address.",
+    "email": "Mehbubazed@gmail.com",
+    "phone": "+251-945-719-223",
+    "github":"https://github.com/imma-yene/",
+    "project":"https://github.com/imma-yene/",
+    "address":{
+      "street":"(Jacros Main Street)",
+      "city":"(Addis Ababa)",
+      "state":"(Ethiopia)",
+      "zip": " "
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/imma-yene",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/mehbubaz",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mehbuba-abera-4192b8253/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/imma-yene/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":" My Project Experiance,During internship  “documentation and implementation in software” specially in website development at South ICT in Hawassa for 2 months.BSc Project  “web-based student Management with parent control and I use asp.net mvc frame work.3rd year semester project: “Police station management system with php”Android app in incubation center ",
+    "education":[
+      {
+        "school":"University",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"July 2022",
+        "description":" Proactive BSc holder in computer science at Dilla University with good academic achievement CGPA of3.80 and volunteering experience, Possess basic knowledge of networking, different programing languages base management courses Programming/Scripting Languages: C++, Java, SQL, python,  JavaScript,PHP, HTML and CSS (Proficient), C # asp.net framework,react js ,MERN "
+      }
+     
+    ],
+    "work":[
+      {
+        "company":"Hagbes Private Limited company",
+        "title":"Junier software developer ",
+        "years":"Nov 2022 - Present",
+        "description":"Development of website for the company based on thier requierment using .net frame work"
+      }
+     
+    ],
+    "skills":[
+     
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"mern",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":".net",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
