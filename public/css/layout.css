@@ -41,6 +41,23 @@ header {
    overflow: hidden;
    
 }
+.card svg{
+ padding-left: 20px;
+ width:60px;
+ height: 60px;
+ color: rgb(227, 240, 227);
+ background-color: transparent;
+ text-decoration: none;
+}
+
+.card svg:hover{
+   color: rgb(111, 193, 218);
+   background-color: transparent;
+   text-decoration: underline;
+}
+*a{
+   text-decoration: none; 
+}
 
 /* vertically center banner section */
 header:before {
