@@ -50,7 +50,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={"https://api.cloudinary.com/v1_1/dipcx3bly/image/download?api_key=811457662351117&attachment=true&audit_context=eyJhY3Rvcl90eXBlIjoidXNlciIsImFjdG9yX2lkIjoiMjVmYzNlMGI2OGNjOWExNmNiNTlkYWMwZTAxZWRiZjkiLCJ1c2VyX2V4dGVybmFsX2lkIjoiZjhjMjQ4YTFkZjEyYzVjN2FlYzM1OTVlZTRiNDNmIiwidXNlcl9jdXN0b21faWQiOiJtZWhidWJhemVkQGdtYWlsLmNvbSIsImNvbXBvbmVudCI6ImNvbnNvbGUifQ%3D%3D&public_id=mycv_b49rbe&signature=84bbe2bfed899c1c878926aec972c07a578a65a6&source=ml&target_filename=mycv_b49rbe.pdf&timestamp=1674822689&type=upload"} download className="button">
+                    <a href={"https://res.cloudinary.com/dipcx3bly/image/upload/v1674740205/mycv_b49rbe.pdf"} download className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
