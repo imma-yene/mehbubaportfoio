@@ -22,7 +22,8 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f;
+body { background: #ffffff;
+   
 
 
 }
@@ -73,6 +74,7 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
+   background-image: url('mylogo.png');
 }
 header .banner-img{
 width:100%;
