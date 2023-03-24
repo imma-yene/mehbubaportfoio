@@ -59,8 +59,8 @@ class Header extends Component {
     <Container className="banner" > 
         <Row  >
             <Col span={4} className="banner-img "  style={mystyle} >
-            <img className="mehbubaimag" src="images/mehbuba.png" />
-          
+            <Fade right duration={10200} > <img className="mehbubaimag" src="images/mehbuba.png" />
+            </Fade>
             </Col>
           <Col span={20} className="banner-text "  >
            
