@@ -12,7 +12,7 @@ class Header extends Component {
     const name = this.props.data.name;
     const description = this.props.data.description;
     const mystyle = {
-      backgroundImage:"url('mylogo.png')",
+      backgroundImage:"url('favicon.png')",
       backgroundRepeat: "no-repeat",
       backgroundSize: "cover",
 
