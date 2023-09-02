@@ -78,6 +78,9 @@ header .banner {
 }
 header .banner-img{
 width:100%;
+height:100%;
+opacity: 0.6;
+min-width:300px;
 }
 
 header .banner-text { width: 100%;  }

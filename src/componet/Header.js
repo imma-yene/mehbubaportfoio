@@ -12,7 +12,7 @@ class Header extends Component {
     const name = this.props.data.name;
     const description = this.props.data.description;
     const mystyle = {
-      backgroundImage:"url('favicon.png')",
+ 
       backgroundRepeat: "no-repeat",
       backgroundSize: "cover",
 
@@ -58,7 +58,7 @@ class Header extends Component {
         </nav>
     <Container className="banner" > 
         <Row  >
-            <Col span={4} className="banner-img "  style={mystyle} >
+            <Col span={20} className="banner-img row"   >
             <Fade right duration={10200} > <img className="mehbubaimag" src="images/mehbuba.png" />
             </Fade>
             </Col>
