@@ -50,7 +50,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={"https://res.cloudinary.com/dipcx3bly/image/upload/v1677572721/my%20cv/resume/Software_Developer_1_vaoygh.pdf"} download className="button">
+                    <a href={"https://res.cloudinary.com/dipcx3bly/image/upload/v1696060160/my%20cv/resume/vqztxn5qjcrohrolfwyz.pdf"} download className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
